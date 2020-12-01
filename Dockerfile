@@ -1,7 +1,7 @@
 # Smallest base image
 FROM alpine
 
-MAINTAINER John Felten<john.felten@gmail.com>
+MAINTAINER HZ<805104533@qq.com>
 
 ADD VERSION .
 
