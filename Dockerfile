@@ -1,5 +1,5 @@
 # Smallest base image
-FROM alpine:3.5
+FROM alpine
 
 MAINTAINER John Felten<john.felten@gmail.com>
 
